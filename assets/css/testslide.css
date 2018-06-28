@@ -1,0 +1,16 @@
+.directions {
+  margin-top: 40px;
+  width: 50%;
+  text-align: center;
+  margin-left: 150px;
+  background-color: #ccc; }
+  .directions-block {
+    background-color: white;
+    height: 220px;
+    text-align: center;
+    margin: 0 12px; }
+    .directions-block h3 {
+      color: black;
+      padding: 10px 34px; }
+
+/*# sourceMappingURL=testslide.css.map */
